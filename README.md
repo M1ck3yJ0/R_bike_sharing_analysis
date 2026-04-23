@@ -14,7 +14,7 @@ and demand forecasting for Seoul, using R.
 R, Tidyverse, ggplot2, Tidymodels, R Shiny, rvest, httr
 
 ## Dashboard
-[Live app link coming soon]
+https://gb4c45-milcah-joseph.shinyapps.io/project/
 
 ## Report
 [RPubs link coming soon]
