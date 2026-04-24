@@ -1,7 +1,8 @@
 # East Asia Bike Sharing Demand Forecast
 
-> An end-to-end data analysis project exploring global bike sharing systems and demand forecasting for Seoul, using R.
-> 5-day hourly bike-sharing demand forecasts for 10 East Asian cities, powered by a regression model trained on Seoul data and delivered through a live interactive R Shiny dashboard.
+> An end-to-end data analysis project exploring 5-day hourly bike-sharing demand forecasts for 10 East Asian cities.
+>
+> Powered by a regression model trained on Seoul data and delivered through a live interactive R Shiny dashboard.
 
 **[Live Dashboard](https://gb4c45-milcah-joseph.shinyapps.io/project/)** | Built with R, tidymodels, Shiny, Leaflet, OpenWeather API
 
