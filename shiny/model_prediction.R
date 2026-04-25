@@ -1,3 +1,7 @@
+# Developed with assistance from Claude (Anthropic)
+# https://claude.ai
+
+
 require(tidyverse)
 require(httr)
 
@@ -174,5 +178,3 @@ test_weather_data_generation <- function() {
   return(city_weather_bike_df)
 }
 
-# Developed with assistance from Claude (Anthropic)
-# https://claude.ai
