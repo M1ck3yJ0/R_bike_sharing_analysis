@@ -1,3 +1,7 @@
+# Server-side reactive logic and plot theming developed with Claude (Anthropic)
+# https://claude.ai
+
+
 require(shiny)
 require(ggplot2)
 require(leaflet)
@@ -285,5 +289,3 @@ shinyServer(function(input, output) {
   })
 })
 
-# Server-side reactive logic and plot theming developed with Claude (Anthropic)
-# https://claude.ai
