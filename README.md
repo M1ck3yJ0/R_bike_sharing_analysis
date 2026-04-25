@@ -26,7 +26,7 @@ The deployed Shiny app fetches live weather data from the OpenWeather API on eac
 
 **City drill-down** with temperature trend, predicted demand with 95% confidence interval, and humidity vs demand scatter:
 
-![City drill-down: Seoul](assets/dashboard-city.png)
+![City drill-down: Osaka](assets/dashboard-city.png)
 
 Key features:
 - Leaflet map with circle markers sized and colored by demand level (green / yellow / red)
