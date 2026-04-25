@@ -22,11 +22,11 @@ The deployed Shiny app fetches live weather data from the OpenWeather API on eac
 
 **Regional overview** showing max predicted demand across all cities:
 
-![Regional overview map](assets/dashboard-overview.png)
+<img src="assets/dashboard-overview.png" width="700" alt="Regional overview map"/>
 
 **City drill-down** with temperature trend, predicted demand with 95% confidence interval, and humidity vs demand scatter:
 
-![City drill-down: Osaka](assets/dashboard-city.png)
+<img src="assets/dashboard-city.png" width="700" alt="Regional overview map"/>
 
 Key features:
 - Leaflet map with circle markers sized and colored by demand level (green / yellow / red)
