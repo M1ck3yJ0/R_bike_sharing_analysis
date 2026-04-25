@@ -1,3 +1,6 @@
+# Dashboard UI layout and CSS architecture developed with Claude (Anthropic)
+# https://claude.ai
+
 require(leaflet)
 require(shiny)
 
@@ -391,5 +394,3 @@ shinyUI(
   )
 )
 
-# Dashboard UI layout and CSS architecture developed with Claude (Anthropic)
-# https://claude.ai
